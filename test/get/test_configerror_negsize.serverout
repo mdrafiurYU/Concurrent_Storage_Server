@@ -1,0 +1,13 @@
+INPUT LINE : server_host
+CONFIG : Error occurred Err: 0
+INPUT LINE : server_port
+CONFIG : Error occurred Err: 0
+INPUT LINE : username
+CONFIG : Error occurred Err: 0
+INPUT LINE : password
+CONFIG : Error occurred Err: 0
+READING TABLE : tbl
+CONFIG : Found char
+INPUT LINE : table
+CONFIG : Error occurred Err: 1
+Error processing config file.

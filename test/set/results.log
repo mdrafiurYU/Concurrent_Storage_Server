@@ -1,0 +1,5 @@
+Running suite a3-partial
+main.c:342:P:Changing existent record's value:test_change_values:0: Passed
+main.c:356:P:Disconnection, then trying to set record value:test_set_with_disconnection:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

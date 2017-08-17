@@ -1,0 +1,22 @@
+Running suite a3-partial
+main.c:340:P:sanity:test_sanity_filemod:0: Passed
+main.c:355:P:configerror:test_configerror_nocomma:0: Passed
+main.c:362:P:configerror:test_configerror_negsize:0: Passed
+main.c:380:P:config:test_config_onetable:0: Passed
+main.c:402:P:conn:test_conn_basic:0: Passed
+main.c:411:P:conninvalid:test_conninvalid_connectinvalidparam:0: Passed
+main.c:431:P:getinvalid:test_getinvalid_badtable:0: Passed
+main.c:441:P:getmissing:test_getmissing_missingtable:0: Passed
+main.c:459:P:setinvalid:test_setinvalid_invalidtable:0: Passed
+main.c:473:P:setinvalid:test_setinvalid_badkey:0: Passed
+main.c:494:P:setinvalidcomplex:test_setinvalidcomplex_missingcolumn:0: Passed
+main.c:484:P:setmissing:test_setmissing_missingtable:0: Passed
+main.c:522:P:setget:test_setget_posint:0: Passed
+main.c:540:P:query:test_query_int0:0: Passed
+main.c:557:P:query:test_query_int1:0: Passed
+main.c:610:P:set:test_set_deleteint:0: Passed
+main.c:625:P:set:test_set_deletestr:0: Passed
+main.c:666:P:setcomplex:test_setcomplex_deletethreecols:0: Passed
+main.c:692:P:setcomplex:test_setcomplex_updatethreecols:0: Passed
+Results for all suites run:
+100%: Checks: 19, Failures: 0, Errors: 0

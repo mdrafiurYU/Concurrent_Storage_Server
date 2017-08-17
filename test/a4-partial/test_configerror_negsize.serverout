@@ -1,0 +1,38 @@
+GOT LINE : server_host localhost
+
+FEOF SAYS: 0
+Line Failed? : 0
+FINISH PROCESS LINE
+
+GOT LINE : server_port 6422
+
+FEOF SAYS: 0
+Line Failed? : 0
+FINISH PROCESS LINE
+
+GOT LINE : username admin
+
+FEOF SAYS: 0
+Line Failed? : 0
+FINISH PROCESS LINE
+
+GOT LINE : password xxxnq.BMCifhU
+
+FEOF SAYS: 0
+Line Failed? : 0
+FINISH PROCESS LINE
+
+GOT LINE : concurrency 1
+
+FEOF SAYS: 0
+Line Failed? : 0
+FINISH PROCESS LINE
+
+GOT LINE : table tbl col:char[-10]
+FEOF SAYS: 1
+---col-char--10-------col-char--10----Got : col - char - -10 - 
+CONFIG : Column size invalid
+Line Failed? : 1
+FINISH PROCESS LINE
+
+Error processing config file.
