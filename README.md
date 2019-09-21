@@ -1,4 +1,4 @@
-# Concurrent_Storage_Server
+# Concurrent Storage Server
 A simple storage server with client/server architecture that supports concurrency through multithreding and data synchronization.
 Server-Storage
 Designed storage server for Ontario Drug store to keep a record of patient prescriptions and implemented essential freatures like data modification, retrieval, deletion and query
